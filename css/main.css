@@ -25,6 +25,7 @@ div {
 }
 
 h1 {
+  margin: .5rem;
   font-size: 2rem;
   color: #fff;
 }
@@ -46,6 +47,10 @@ nav a {
   color: #fff;
 }
 
+nav a:hover {
+  background-color: #a63f38;
+}
+
 nav li:hover {
   background-color: #a63f38;
 }
@@ -55,5 +60,5 @@ nav li {
   margin: 0;
   width: 33.333%;
   text-align: center;
-  border: 2px solid #a63f38;
+  border: 1px solid #a63f38;
 }
