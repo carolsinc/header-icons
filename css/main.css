@@ -11,6 +11,7 @@ html {
 body {
   margin: 0;
 }
+
 header {
   margin: 0;
   background-color: #d05c2e;
@@ -27,9 +28,11 @@ h1 {
   font-size: 2rem;
   color: #fff;
 }
+
 img {
-width: 40px;
+  width: 40px;
 }
+
 nav ul {
   display: flex;
   list-style-type: none;
